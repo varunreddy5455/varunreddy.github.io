@@ -5,15 +5,18 @@ title: Varun Reddy
 
 # Hi, I'm Varun Reddy 👋
 
-Technical Sourcer @ Datadog  
-Supporting AI Research, Applied AI, and Security teams.
-Sourcing exceptional AI Research, Applied AI, distributed systems, and security talent in EMEA for Datadog. 
+Technical Sourcer @ [Datadog](https://www.youtube.com/watch?v=7T7SyMZihwo)
 
-MSc in Human Resource Management from Trinity College Dublin, and a Bachelor's in Urban Planning (Gold Medalist) from the School of Planning and Architecture, Bhopal.
-Recipient of the Trinity Business School Scholarship and awarded the Proficiency Gold Medal for academic excellence.
+Sourcing exceptional **AI Research**, and **Applied AI** talent in EMEA for Datadog. 
 
-- [LinkedIn]([https://www.linkedin.com/in/varun-m-r/])
+I hold a master's degree in Human Resource Management from Trinity College Dublin, where I received the Trinity Business School Scholarship in recognition of my academic achievements. Prior to this, I earned a Bachelor's degree in Urban Planning from the School of Planning and Architecture, Bhopal, where I was awarded the Proficiency Gold Medal for academic excellence.
 
-Latest News: 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/varun-m-r/)!
 
-Introducing Toto: ([https://www.datadoghq.com/blog/datadog-time-series-foundation-model/])
+**Latest News:** 
+
+We are expanding our AI Research team in Paris! Check out our open [AI Researcher role](https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564)
+
+[Introducing Toto](https://www.datadoghq.com/blog/datadog-time-series-foundation-model/): A state-of-the-art time series foundation model by Datadog
+
+Want to work on some exciting topics such as [anomaly detection](https://www.datadoghq.com/blog/watchdog/), [error outliers](https://docs.datadoghq.com/logs/explorer/watchdog_insights/) and [faulty deployment analysis](https://www.datadoghq.com/blog/faulty-deployment-detection/)? Check out our open [Senior Applied Scientist role](https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197) in Paris
