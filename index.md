@@ -13,3 +13,7 @@ MSc in Human Resource Management from Trinity College Dublin, and a Bachelor's i
 Recipient of the Trinity Business School Scholarship and awarded the Proficiency Gold Medal for academic excellence.
 
 - [LinkedIn]([https://www.linkedin.com/in/varun-m-r/])
+
+Latest News: 
+
+Introducing Toto: ([https://www.datadoghq.com/blog/datadog-time-series-foundation-model/])
