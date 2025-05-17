@@ -5,7 +5,7 @@ title: Varun Reddy
 
 # Hi, I'm Varun Reddy 👋
 
-<img src="profile.jpg" alt="Varun Reddy" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
+<img src="varun.jpg" alt="Varun Reddy" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
 
 Technical Sourcer @ [Datadog](https://www.youtube.com/watch?v=7T7SyMZihwo)
 
