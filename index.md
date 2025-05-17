@@ -3,9 +3,7 @@ layout: default
 title: Varun Reddy
 ---
 
-# Hi, I'm Varun Reddy 👋
-
-<img src="profile.jpg" alt="Varun Reddy" style="border-radius: 50%; border: 2px solid #ccc; max-width: 200px;" />
+<img src="profile.jpg" alt="Varun Reddy" style="border-radius: 50%; object-fit: cover; height: 200px; width: 200px;" /> # Hi, I'm Varun Reddy 👋
 
 Technical Sourcer @ [Datadog](https://www.youtube.com/watch?v=7T7SyMZihwo)
 
