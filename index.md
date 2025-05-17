@@ -1,8 +1,11 @@
-# Hi, I'm Varun Reddy 👋
+---
+layout: default
+title: Varun Reddy
+---
 
-<img src="varun.jpg" alt="Varun Reddy" style="border-radius: 50%; object-fit: cover; height: 200px; width: 200px;" />
+# Hey, I'm Technical Sourcer @ [Datadog](https://www.youtube.com/watch?v=7T7SyMZihwo) 👋
 
-Technical Sourcer @ [Datadog](https://www.youtube.com/watch?v=7T7SyMZihwo)
+<img src="profile.jpg" alt="Varun Reddy" style="border-radius: 50%; object-fit: cover; height: 200px; width: 200px;" />
 
 Sourcing exceptional **AI Research**, and **Applied AI** talent in EMEA for Datadog. 
 
