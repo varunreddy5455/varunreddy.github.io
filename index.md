@@ -5,11 +5,22 @@ title: Varun Reddy
 
 # Hey, I'm Varun 👋
 
-<img src="profile.jpg" alt="Varun Reddy" style="border-radius: 50%; object-fit: cover; height: 200px; width: 200px;" />
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
 
-**Technical Sourcer @ [Datadog](https://www.youtube.com/watch?v=7T7SyMZihwo)**
+  <!-- Profile Picture -->
+  <img src="profile.jpg" alt="Varun Reddy"
+       style="border-radius: 50%; object-fit: cover; width: 140px; height: 140px;" />
 
-Sourcing exceptional **AI Research**, and **Applied AI** talent in EMEA for Datadog. 
+  <!-- Text Section -->
+  <div style="max-width: 600px;">
+    <p style="margin: 0; font-size: 1.2em;">
+      <strong>Technical Sourcer @ 
+      <a href="https://www.youtube.com/watch?v=7T7SyMZihwo" target="_blank">Datadog</a></strong>
+    </p>
+    <p style="margin: 0;">Sourcing exceptional <strong>AI Research</strong> and <strong>Applied AI</strong> talent in EMEA for Datadog.</p>
+  </div>
+
+</div> 
 
 I hold a master's degree in Human Resource Management from Trinity College Dublin, where I received the Trinity Business School Scholarship in recognition of my academic achievements. Prior to this, I earned a Bachelor's degree in Urban Planning from the School of Planning and Architecture, Bhopal, where I was awarded the Proficiency Gold Medal for academic excellence.
 
