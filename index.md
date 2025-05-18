@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 
+title: Varun Reddy
 ---
 
-# Hey, I'm Varun Reddy 👋
+# Hey, I'm Varun 👋
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
 
@@ -30,8 +30,8 @@ I hold a master’s degree in Human Resource Management from Trinity College Dub
 </p>
 
 ----------
-
-**Latest news**
+<hr>
+<h2 style="font-size: 1.5em; color: #222;">Latest news</h2>
 
 We are expanding our AI Research team in Paris! Check out our open [AI Researcher role](https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564)
 
@@ -40,8 +40,8 @@ We are expanding our AI Research team in Paris! Check out our open [AI Researche
 Want to work on some exciting topics such as [anomaly detection](https://www.datadoghq.com/blog/watchdog/), [error outliers](https://docs.datadoghq.com/logs/explorer/watchdog_insights/) and [faulty deployment analysis](https://www.datadoghq.com/blog/faulty-deployment-detection/)? Check out our open [Senior Applied Scientist role](https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197) in Paris
 
 ----------
-
-**Experience**
+<hr>
+<h2 style="font-size: 1.5em; color: #222;">Experience</h2>
 
 <p><strong>Datadog</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Technical Sourcer II (AI and Security) <em>(Apr 2024 – Present)</em></p>
@@ -58,8 +58,7 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 &nbsp;&nbsp;&nbsp;&nbsp;Recruitment Consultant <em>(Aug 2019 – Nov 2019)</em></p>
 
 <hr>
-
-**Education**
+<h2 style="font-size: 1.5em; color: #222;">Education</h2>
 
 <p><strong>Trinity College Dublin</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Master's Degree, Human Resource Management <em>(2018 – 2019)</em></p>
@@ -68,8 +67,7 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor's Degree, Urban Planning <em>(2014 – 2018)</em></p>
 
 <hr>
-
-**Honors & Awards**
+<h2 style="font-size: 1.5em; color: #222;">Honors and Awards</h2>
 
 <p><strong>Proficiency Gold Medal for 1st Rank in B. Plan</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Issued by School of Planning and Architecture, Bhopal – Oct 2018</p>
@@ -89,11 +87,10 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 &nbsp;&nbsp;&nbsp;&nbsp;Issued by 2nd International Level Science Talent Search Examination – Aug 2007</p>
 
 <hr>
-
-**Fun Facts**
+<h2 style="font-size: 1.5em; color: #222;">Fun facts</h2>
 
 <ul>
-  <li>I'm a trained Carnatic classical singer.</li> 🎶
-  <li>I ran a YouTube channel called <a href="https://www.youtube.com/@AllAboutPlanning" target="_blank">All About Planning</a> where I shared content related to urban planning.</li> 📹
+  <li>I'm a trained Carnatic classical singer.</li>
+  <li>I ran a YouTube channel called <a href="https://www.youtube.com/@AllAboutPlanning" target="_blank">All About Planning</a> where I shared content related to urban planning.</li>
 </ul>
 
