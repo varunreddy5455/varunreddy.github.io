@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Varun Reddy
+title: 
 ---
 
-# Hey, I'm Varun 👋
+# Hey, I'm Varun Reddy 👋
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
 
@@ -31,7 +31,7 @@ I hold a master’s degree in Human Resource Management from Trinity College Dub
 
 ----------
 
-# Latest news 📰
+**Latest news**
 
 We are expanding our AI Research team in Paris! Check out our open [AI Researcher role](https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564)
 
@@ -41,7 +41,7 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 
 ----------
 
-# Experience 👨‍💻
+**Experience**
 
 <p><strong>Datadog</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Technical Sourcer II (AI and Security) <em>(Apr 2024 – Present)</em></p>
@@ -59,7 +59,7 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 
 <hr>
 
-# Education 📚
+**Education**
 
 <p><strong>Trinity College Dublin</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Master's Degree, Human Resource Management <em>(2018 – 2019)</em></p>
@@ -69,7 +69,7 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 
 <hr>
 
-# Honors & Awards 🏆
+**Honors & Awards**
 
 <p><strong>Proficiency Gold Medal for 1st Rank in B. Plan</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Issued by School of Planning and Architecture, Bhopal – Oct 2018</p>
@@ -90,10 +90,10 @@ Want to work on some exciting topics such as [anomaly detection](https://www.dat
 
 <hr>
 
-# Fun Facts 🎶
+**Fun Facts**
 
 <ul>
-  <li>I'm a trained Carnatic classical singer.</li>
-  <li>I ran a YouTube channel called <a href="https://www.youtube.com/@AllAboutPlanning" target="_blank">All About Planning</a> where I shared content related to urban planning.</li>
+  <li>I'm a trained Carnatic classical singer.</li> 🎶
+  <li>I ran a YouTube channel called <a href="https://www.youtube.com/@AllAboutPlanning" target="_blank">All About Planning</a> where I shared content related to urban planning.</li> 📹
 </ul>
 
