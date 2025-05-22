@@ -31,13 +31,35 @@ I hold a master’s degree in Human Resource Management from Trinity College Dub
 
 ----------
 <hr>
-<h2 style="font-size: 1.5em; color: #222;">Latest news</h2>
+<h2 style="font-size: 1.5em; color: #222;">Latest News</h2>
 
-We are expanding our AI Research team in Paris! Check out our open [AI Researcher role](https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564)
+<ul style="font-size: 1.1em; color: #222;">
+  <li>
+    We unveiled the first two launches (open source under the Apache 2.0 license) from Datadog AI Research! 
+    <a href="https://huggingface.co/Datadog/Toto-Open-Base-1.0" target="_blank">Toto</a>, a new SOTA (by a wide margin!) time series foundation model, and 
+    <a href="https://huggingface.co/datasets/Datadog/BOOM" target="_blank">BOOM</a>, the largest benchmark of observability metrics.
+  </li>
 
-[Introducing Toto](https://www.datadoghq.com/blog/datadog-time-series-foundation-model/): A state-of-the-art time series foundation model by Datadog
+  <li>
+    We are expanding our AI Research team in Paris! Check out our open
+    <a href="https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564" target="_blank">AI Researcher role</a>.
+  </li>
 
-Want to work on some exciting topics such as [anomaly detection](https://www.datadoghq.com/blog/watchdog/), [error outliers](https://docs.datadoghq.com/logs/explorer/watchdog_insights/) and [faulty deployment analysis](https://www.datadoghq.com/blog/faulty-deployment-detection/)? Check out our open [Senior Applied Scientist role](https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197) in Paris
+  <li>
+    <a href="https://www.datadoghq.com/blog/datadog-time-series-foundation-model/" target="_blank">Introducing Toto</a>:
+    A state-of-the-art time series foundation model by Datadog.
+  </li>
+
+  <li>
+    Want to work on exciting topics like 
+    <a href="https://www.datadoghq.com/blog/watchdog/" target="_blank">anomaly detection</a>,
+    <a href="https://docs.datadoghq.com/logs/explorer/watchdog_insights/" target="_blank">error outliers</a>,
+    and 
+    <a href="https://www.datadoghq.com/blog/faulty-deployment-detection/" target="_blank">faulty deployment analysis</a>? 
+    Check out our open 
+    <a href="https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197" target="_blank">Senior Applied Scientist role</a> in Paris.
+  </li>
+</ul>
 
 ----------
 <hr>
